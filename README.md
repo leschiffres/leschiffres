@@ -5,7 +5,6 @@ My name is Matthaios Letsios and in the past years I have been working in the fi
 - Develop python services using technologies like **gRPC**, **postgreSQL**, **clickhouse**, **redis** and **kafka**.
 - Develop and maintain **NLP** services.
 - Developing different **machine learning** models (mainly anomaly detection).
-- Ensure reliable software development by appropriate unit and regression tests as well as automated linting as part of Github workflows.
 
 ### Research
 
